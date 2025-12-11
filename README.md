@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **karnpratik201@gmail.com**
 
-- ⚡ Fun fact **I'm Rude**
+- ⚡ Fun fact **I'm SuperMan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
