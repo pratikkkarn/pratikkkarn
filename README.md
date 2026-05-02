@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik</h1>
+<h1 align="center">Hi 👋, I'm Pratik https://terasharefile.com/s/1B_gPNWk5sizYAuECygBOkA</h1>
 <h3 align="center">A Aspiring Data Scientist from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkkarn&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkkarn" /> </p>
