@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⚡ Hey, I'm Pratik
-
-### Data Science • AI/ML • Full-Stack Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Pratik+%E2%9A%A1;Data+Scientist+%7C+AI%2FML+Engineer;Full-Stack+Developer+%7C+Musician" alt="Typing SVG" />
 
 <p>
   <strong>Turning data into insights, ideas into products, and problems into scalable solutions.</strong>
@@ -95,13 +93,13 @@ class Pratik:
 
 ## 🚀 What I'm Building
 
-| Project                    | Description                                                     |
-| :------------------------- | :-------------------------------------------------------------- |
-| 🤖 **AI Applications**     | Intelligent applications powered by LLMs and AI agents          |
-| 📊 **Data Projects**       | Data analysis, forecasting, visualization and ML systems        |
-| 🎵 **Music Platforms**     | Modern web experiences for discovering and streaming music      |
-| 📱 **Social Applications** | Full-stack mobile and web applications                          |
-| ⚡ **Automation Systems**   | Tools that reduce repetitive work through intelligent workflows |
+| Project | Description |
+| :--- | :--- |
+| 🤖 **AI Applications** | Intelligent applications powered by LLMs and AI agents |
+| 📊 **Data Projects** | Data analysis, forecasting, visualization and ML systems |
+| 🎵 **Music Platforms** | Modern web experiences for discovering and streaming music |
+| 📱 **Social Applications** | Full-stack mobile and web applications |
+| ⚡ **Automation Systems** | Tools that reduce repetitive work through intelligent workflows |
 
 ---
 
@@ -123,13 +121,21 @@ class Pratik:
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratikkkarn&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
 ---
 
 ## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PratikKarn/PratikKarn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
