@@ -1,35 +1,47 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hey,%20I'm%20Pratik%20⚡&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20•%20AI%2FML%20•%20Full-Stack%20Craftsman&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Hey,%20I'm%20Pratik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20•%20AI%2FML%20•%20Full-Stack%20Development&descAlignY=55&descSize=18" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Turning+data+into+insights+%F0%9F%93%8A;Building+AI-powered+products+%F0%9F%A4%96;Shipping+full-stack+apps+%E2%9A%A1;Producing+beats+on+the+side+%F0%9F%8E%A7" alt="Typing SVG" />
-
-<br><br>
-
-<p>
-  <a href="https://linkedin.com/in/pratik-kumar-a9841a288">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=Turning+raw+data+into+predictive+intelligence+%F0%9F%A7%A0;Architecting+autonomous+AI+agents+%E2%9A%A1;Shipping+production-grade+full-stack+apps+%F0%9F%9B%A0%EF%B8%8F;Cooking+beats+%26+soundscapes+on+the+side+%F0%9F%8E%A7" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/pratikkkarn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/pratik-kumar-a9841a288" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/pratikkarn45384">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://github.com/pratikkkarn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/pratikkarn45384" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:karnpratik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=pratikkkarn&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <br/><br/>
 
+  <img src="https://komarev.com/ghpvc/?username=pratikkkarn&label=%E2%9A%A1%20PROFILE%20VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+
+### 🧠 &nbsp;About Me
+
+```python
+class Pratik:
+    def __init__(self):
+        self.role = "Data Science & AI Engineer"
+        self.stack = ["Python", "PyTorch", "Next.js", "FastAPI"]
+        self.obsession = ["Autonomous Agents", "Deep Learning", "Clean UI"]
+        self.current_quest = "Scaling generative pipelines into production"
+        self.fuel = "Black Coffee ☕ + Lo-Fi Beats 🎧"
+
+    def philosophy(self) -> str:
+        return "Build. Break. Learn. Optimize. Repeat."
 
 ## 🧠 &nbsp;About Me
 
