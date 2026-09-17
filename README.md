@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                        HERO SECTION                            -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=140&section=header&text=Hey,%20I'm%20Pratik%20⚡&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20•%20AI%2FML%20•%20Full-Stack%20Craftsman&descAlignY=68&descSize=14" width="100%"/>
@@ -24,8 +26,8 @@
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:karnpratik201@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:karnpratik201@gmail.com?subject=Hello%20Pratik%20%E2%80%94%20Let's%20Connect">
+<img src="https://img.shields.io/badge/✉%20Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B1E2D"/>
 </a>
 
 <br><br>
@@ -37,11 +39,14 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                         ABOUT + FOCUS                           -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
+
 <td width="62%" valign="top">
 
 ### 🧠 About Me
@@ -89,6 +94,7 @@ class Pratik:
 > ☕ **Late-night framework hunting**
 
 </td>
+
 </tr>
 </table>
 
@@ -105,7 +111,9 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                         TECH STACK                              -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
@@ -185,7 +193,9 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                       WHAT I'M BUILDING                         -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 What I'm Building
@@ -235,7 +245,9 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                       GITHUB ANALYTICS                          -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -246,20 +258,22 @@ class Pratik:
 <tr>
 
 <!-- LEFT : GITHUB METRICS (self-hosted, reliable) -->
+
 <td width="48%" valign="top">
 
 <img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/main/github-metrics.svg"
-  alt="GitHub Metrics"
-  width="100%"/>
+alt="GitHub Metrics"
+width="100%"/>
 
 </td>
 
 <!-- RIGHT : STREAK (fixed number visibility) -->
+
 <td width="52%" valign="top">
 
 <img src="https://streak-stats.demolab.com?user=pratikkkarn&hide_border=true&background=0D1117&ring=FF4ECD&fire=FFB800&currStreakLabel=00F5D4&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888"
-  alt="GitHub Streak"
-  width="100%"/>
+alt="GitHub Streak"
+width="100%"/>
 
 </td>
 
@@ -269,6 +283,7 @@ class Pratik:
 <br>
 
 <!-- ANALYTICS LABELS -->
+
 <table width="96%">
 <tr>
 
@@ -304,7 +319,9 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                     CONTRIBUTION GRAPH                         -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Graph
@@ -318,7 +335,9 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                         CURRENT GOALS                           -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Goals
@@ -344,40 +363,40 @@ class Pratik:
 
 <td align="center" width="20%">
 
-🧠
-**Data Science**
+🧠 <br>
+**Data Science** <br>
 Learning
 
 </td>
 
 <td align="center" width="20%">
 
-⚙️
-**ML**
+⚙️ <br>
+**ML** <br>
 Building
 
 </td>
 
 <td align="center" width="20%">
 
-✨
-**Gen AI**
+✨ <br>
+**Gen AI** <br>
 Exploring
 
 </td>
 
 <td align="center" width="20%">
 
-🤖
-**AI Agents**
+🤖 <br>
+**AI Agents** <br>
 Experimenting
 
 </td>
 
 <td align="center" width="20%">
 
-💻
-**Full Stack**
+💻 <br>
+**Full Stack** <br>
 Building
 
 </td>
@@ -388,7 +407,9 @@ Building
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                         BEYOND CODE                             -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Beyond Code
@@ -406,7 +427,7 @@ Building
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280px"/>
 
-&nbsp;&nbsp;&nbsp;
+   
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280px"/>
 
@@ -415,7 +436,9 @@ Building
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                         DEV PHILOSOPHY                          -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
