@@ -49,3 +49,9 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=pratikkkarn&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+<div align="center">
+  <sub>Let's build something crazy together. Drop an issue, ping me on socials, or shoot over a PR.</sub>
+</div>
