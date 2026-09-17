@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                        HERO SECTION                            -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=140&section=header&text=Hey,%20I'm%20Pratik%20⚡&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20•%20AI%2FML%20•%20Full-Stack%20Craftsman&descAlignY=68&descSize=14" width="100%"/>
@@ -39,9 +37,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         ABOUT + FOCUS                           -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table>
@@ -92,10 +88,6 @@ class Pratik:
 
 > ☕ **Late-night framework hunting**
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkkarn&bg_color=0D1117&color=00F5D4&line=7B61FF&point=FF4ECD&area=true&hide_border=true" width="100%"/>
-
 </td>
 </tr>
 </table>
@@ -113,9 +105,7 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         TECH STACK                              -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
@@ -195,9 +185,7 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                       WHAT I'M BUILDING                         -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 What I'm Building
@@ -247,15 +235,7 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                       GITHUB ANALYTICS                          -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       GITHUB ANALYTICS                          -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -265,8 +245,7 @@ class Pratik:
 <table width="100%">
 <tr>
 
-<!-- LEFT : GITHUB METRICS -->
-
+<!-- LEFT : GITHUB METRICS (self-hosted, reliable) -->
 <td width="48%" valign="top">
 
 <img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/main/github-metrics.svg"
@@ -275,17 +254,10 @@ class Pratik:
 
 </td>
 
-<!-- RIGHT : STATS + STREAK -->
-
+<!-- RIGHT : STREAK (fixed number visibility) -->
 <td width="52%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratikkkarn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B61FF&text_color=FFFFFF&rank_icon=github&hide_title=false"
-  alt="GitHub Stats"
-  width="100%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkkarn&hide_border=true&background=0D1117&ring=FF4ECD&fire=FFB800&currStreakLabel=00F5D4&sideLabels=FFFFFF&dates=888888"
+<img src="https://streak-stats.demolab.com?user=pratikkkarn&hide_border=true&background=0D1117&ring=FF4ECD&fire=FFB800&currStreakLabel=00F5D4&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888"
   alt="GitHub Streak"
   width="100%"/>
 
@@ -296,20 +268,7 @@ class Pratik:
 
 <br>
 
-<!-- ACTIVITY GRAPH -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkkarn&bg_color=0D1117&color=00F5D4&line=7B61FF&point=FF4ECD&area=true&hide_border=true"
-  alt="GitHub Activity Graph"
-  width="96%"/>
-
-</div>
-
-<br>
-
 <!-- ANALYTICS LABELS -->
-
 <table width="96%">
 <tr>
 
@@ -333,7 +292,7 @@ class Pratik:
 
 <td align="center">
 
-🩷<br> <b>Activity</b><br> <sub>Daily Progress</sub>
+🩷<br> <b>Streak</b><br> <sub>Daily Progress</sub>
 
 </td>
 
@@ -341,12 +300,11 @@ class Pratik:
 </table>
 
 </div>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                     CONTRIBUTION GRAPH                         -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Graph
@@ -360,9 +318,7 @@ class Pratik:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         CURRENT GOALS                           -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Goals
@@ -432,9 +388,7 @@ Building
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         BEYOND CODE                             -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Beyond Code
@@ -452,7 +406,7 @@ Building
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280px"/>
 
-   
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280px"/>
 
@@ -461,9 +415,7 @@ Building
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         DEV PHILOSOPHY                          -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
