@@ -41,17 +41,11 @@
 ### 📊 Proof of Work
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pratikkkarn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pratik's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkkarn&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratikkkarn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Pratik's GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratikkkarn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkkarn&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Let's build something crazy together. Drop an issue, ping me on socials, or shoot over a PR.</sub>
+  <img src="https://streak-stats.demolab.com?user=pratikkkarn&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
