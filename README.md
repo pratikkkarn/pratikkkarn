@@ -25,9 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=pratikkkarn&label=%E2%9A%A1%20PROFILE%20VIEWS&color=7928CA&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00F5D4&height=3&width=100%" />
 
 ### 🧠 &nbsp;About Me
 
@@ -35,42 +33,20 @@
 class Pratik:
     def __init__(self):
         self.role = "Data Science & AI Engineer"
-        self.stack = ["Python", "PyTorch", "Next.js", "FastAPI"]
+        self.stack = ["Python", "PyTorch", "React", "Node.js"]
         self.obsession = ["Autonomous Agents", "Deep Learning", "Clean UI"]
         self.current_quest = "Scaling generative pipelines into production"
         self.fuel = "Black Coffee ☕ + Lo-Fi Beats 🎧"
 
     def philosophy(self) -> str:
         return "Build. Break. Learn. Optimize. Repeat."
-
-## 🧠 &nbsp;About Me
-
-```python
-class Pratik:
-
-    role = "Data Science & AI Enthusiast"
-
-    currently_learning = [
-        "Data Science",
-        "Machine Learning",
-        "Generative AI",
-        "AI Agents"
-    ]
-
-    building = [
-        "AI-powered applications",
-        "Data-driven systems",
-        "Full-stack products"
-    ]
-
-    philosophy = "Build. Break. Learn. Improve. Repeat."
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔭 Focus**
+**🔭 &nbsp;Focus**
 - Data Science, Machine Learning & Generative AI
 - AI Agents, LLMs and intelligent automation
 - Full-stack apps with React, Node.js and databases
@@ -78,7 +54,7 @@ class Pratik:
 </td>
 <td width="50%" valign="top">
 
-**🚀 Interests**
+**🚀 &nbsp;Interests**
 - AI × Data × Product Development
 - Music production & sound design
 - Trying new frameworks late at night ☕
@@ -87,43 +63,45 @@ class Pratik:
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:FF6EC7&height=3&width=100%" />
 
-## 🛠️ &nbsp;Tech Stack
+### 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**AI / Data Science**
-
+<img src="https://img.shields.io/badge/AI%20%2F%20DATA%20SCIENCE-6C63FF?style=for-the-badge" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+<br/>
 
 `Pandas` `NumPy` `Matplotlib` `Prophet` `AI Agents` `LLMs`
 
-<br>
+<br/><br/>
 
-**Full-Stack Development**
-
+<img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPMENT-00B4D8?style=for-the-badge" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,vite,tailwind" />
 
-<br>
+<br/><br/>
 
-**Databases**
-
+<img src="https://img.shields.io/badge/DATABASES-FF6EC7?style=for-the-badge" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase" />
 
-<br>
+<br/><br/>
 
-**Tools & Platforms**
-
+<img src="https://img.shields.io/badge/TOOLS%20%26%20PLATFORMS-FFB800?style=for-the-badge" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode" />
+<br/>
 
 `Jupyter` `Power BI` `Streamlit` `Postman`
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:FFB800&height=3&width=100%" />
 
-## 🚀 &nbsp;What I'm Building
+### 🚀 &nbsp;What I'm Building
 
 <div align="center">
 
@@ -137,51 +115,51 @@ class Pratik:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,100:6C63FF&height=3&width=100%" />
 
-## 📊 &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00F5D4&height=3&width=100%" />
+
+### 🐍 &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:FF6EC7&height=3&width=100%" />
+
+### 🎯 &nbsp;Current Goals
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://img.shields.io/badge/Data%20Science-Learning-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Building-00B4D8?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-FF6EC7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-Experimenting-FFB800?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Full%20Stack-Building-6C63FF?style=for-the-badge" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:FFB800&height=3&width=100%" />
 
-## 🐍 &nbsp;Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-## 🎯 &nbsp;Current Goals
-
-```text
-Data Science        ███████████████░░░  Learning
-Machine Learning    ██████████████░░░░  Building
-Generative AI       █████████████░░░░░  Exploring
-AI Agents           ███████████░░░░░░░  Experimenting
-Full Stack          ███████████████░░░  Building
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-## ⚡ &nbsp;Beyond Code
+### ⚡ &nbsp;Beyond Code
 
 <div align="center">
 
 🎵 &nbsp; Music & Music Production &nbsp; | &nbsp; 🎧 &nbsp; Hip-Hop & Electronic Music &nbsp; | &nbsp; 🎨 &nbsp; UI/UX & Creative Tech
-<br><br>
+<br/><br/>
 ☕ &nbsp; Late-Night Coding Sessions &nbsp; | &nbsp; 🚀 &nbsp; Building Things Just to See How Far They Go
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -189,6 +167,6 @@ Full Stack          ███████████████░░░  Buil
 
 **Let's create something worth shipping.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%"/>
 
 </div>
