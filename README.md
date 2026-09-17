@@ -252,26 +252,88 @@ class Pratik:
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       GITHUB ANALYTICS                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-<br><br>
-
-<table>
+<table width="100%">
 <tr>
 
-<td>
+<!-- LEFT : GITHUB METRICS -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratikkkarn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B61FF&text_color=FFFFFF&rank_icon=github" width="100%"/>
+<td width="48%" valign="top">
+
+<img src="https://raw.githubusercontent.com/pratikkkarn/pratikkkarn/main/github-metrics.svg"
+  alt="GitHub Metrics"
+  width="100%"/>
 
 </td>
 
-<td>
+<!-- RIGHT : STATS + STREAK -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkkarn&hide_border=true&background=0D1117&ring=FF4ECD&fire=FFB800&currStreakLabel=00F5D4&sideLabels=FFFFFF&dates=888888" width="100%"/>
+<td width="52%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratikkkarn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B61FF&text_color=FFFFFF&rank_icon=github&hide_title=false"
+  alt="GitHub Stats"
+  width="100%"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkkarn&hide_border=true&background=0D1117&ring=FF4ECD&fire=FFB800&currStreakLabel=00F5D4&sideLabels=FFFFFF&dates=888888"
+  alt="GitHub Streak"
+  width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ACTIVITY GRAPH -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikkkarn&bg_color=0D1117&color=00F5D4&line=7B61FF&point=FF4ECD&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+  width="96%"/>
+
+</div>
+
+<br>
+
+<!-- ANALYTICS LABELS -->
+
+<table width="96%">
+<tr>
+
+<td align="center">
+
+🟣<br> <b>Contributions</b><br> <sub>Consistency & Activity</sub>
+
+</td>
+
+<td align="center">
+
+🔵<br> <b>Repositories</b><br> <sub>Projects & Experiments</sub>
+
+</td>
+
+<td align="center">
+
+🟢<br> <b>Development</b><br> <sub>Languages & Tools</sub>
+
+</td>
+
+<td align="center">
+
+🩷<br> <b>Activity</b><br> <sub>Daily Progress</sub>
 
 </td>
 
@@ -279,7 +341,6 @@ class Pratik:
 </table>
 
 </div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
